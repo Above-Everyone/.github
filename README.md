@@ -9,7 +9,5 @@ We work on projects that'd either help the Yoworld commnuity out or private proj
 
 ### Our on-going projects
 
-[ ] YoMarket 
-        - A price guide and market-place
-[ ] YoController 
-        - An application that watches ads on the game for free coins)
+[ ] YoMarket | A price guide and market-place
+[ ] YoController | An application that watches ads on the game for free coins)
