@@ -10,13 +10,14 @@ We work on projects that'd either help the Yoworld commnuity out or private proj
 ### List of current/previous projects
 
 Symbol Definition
-x Project Completed
-+ Being worked on
-- Side Projects
 
-[+] YoMarket API          | A price guide and market-place
-[+] YoMarket Website      | The front-end source of YoMarket using YoMarketPHP Library
-[-] YoMarket DiscordBot   | The front-end source of YoMarket using YoMarket.py Module
-[-] YoMarket Desktop      | The front-end source of YoMarket using YoMarket.cs Library
-[-] YoMarket Client Libs  | Published YoMarket Libraries for various of programming languages
-[-] YoController          | An application that watches ads on the game for free coins
+<p>x Project Completed</p>
+<p>+ Being worked on</p>
+<p>- Side Projects</p>
+
+<p>[+] YoMarket API          | A price guide and market-place</p>
+<p>[+] YoMarket Website      | The front-end source of YoMarket using YoMarketPHP Library</p>
+<p>[-] YoMarket DiscordBot   | The front-end source of YoMarket using YoMarket.py Module</p>
+<p>[-] YoMarket Desktop      | The front-end source of YoMarket using YoMarket.cs Library</p>
+<p>[-] YoMarket Client Libs  | Published YoMarket Libraries for various of programming languages</p>
+<p>[-] YoController          | An application that watches ads on the game for free coins</p>
