@@ -10,7 +10,8 @@ We work on projects that'd either help the Yoworld commnuity out or private proj
 ### List of current/previous projects
 
 - [ ] YoMarket API          | A price guide and market-place
-- [ ] YoMarket Website      | A price guide and market-place
-- [ ] YoMarket DiscordBot   | A price guide and market-place
-- [ ] YoMarket Desktop      | A price guide and market-place
-- [ ] YoController          | An application that watches ads on the game for free coins)
+- [ ] YoMarket Website      | The front-end source of YoMarket using YoMarketPHP Library
+- [ ] YoMarket DiscordBot   | The front-end source of YoMarket using YoMarket.py Module
+- [ ] YoMarket Desktop      | The front-end source of YoMarket using YoMarket.cs Library
+- [ ] YoMarket Client Libs  | Published YoMarket Libraries for various of programming languages
+- [ ] YoController          | An application that watches ads on the game for free coins
