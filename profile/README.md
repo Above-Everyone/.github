@@ -11,9 +11,9 @@ We work on projects that'd either help the Yoworld commnuity out or private proj
 
 Symbol Definition
 
-<p>x Project Completed</p>
-<p>+ Being worked on</p>
-<p>- Side Projects</p>
+<p>x Project Completed<br />
++ Being worked on<br />
+- Side Projects</p>
 
 <p>[ + ] YoMarket API          | A price guide and market-place<br />
 [ + ] YoMarket Website      | The front-end source of YoMarket using YoMarketPHP Library<br />
