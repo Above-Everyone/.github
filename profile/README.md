@@ -10,11 +10,11 @@ We work on projects that'd either help the Yoworld commnuity out or private proj
 # List of current/previous projects
 
 ### Symbol Definition
-
 <p>x Project Completed<br />
 + Being worked on<br />
 - Side Projects</p>
 
+### Project
 <p>[ + ] YoMarket API          | A price guide and market-place<br />
 [ + ] YoMarket Website      | The front-end source of YoMarket using YoMarketPHP Library<br />
 [ - ] YoMarket DiscordBot   | The front-end source of YoMarket using YoMarket.py Module<br />
