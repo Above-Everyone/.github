@@ -3,13 +3,13 @@
     <p>An organization formed on Yoworld for software development related to the game<p>
 </div>
 
-### What do we mainly work on?
+# What do we mainly work on?
 
 We work on projects that'd either help the Yoworld commnuity out or private projects that will get/earn us free in-game currency!
 
-### List of current/previous projects
+# List of current/previous projects
 
-# Symbol Definition
+### Symbol Definition
 
 <p>x Project Completed<br />
 + Being worked on<br />
