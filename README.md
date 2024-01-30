@@ -7,7 +7,10 @@
 
 We work on projects that'd either help the Yoworld commnuity out or private projects that will get/earn us free in-game currency!
 
-### Our on-going projects
+### List of current/previous projects
 
-- [X] YoMarket | A price guide and market-place
-- [ ] YoController | An application that watches ads on the game for free coins)
+- [ ] YoMarket API          | A price guide and market-place
+- [ ] YoMarket Website      | A price guide and market-place
+- [ ] YoMarket DiscordBot   | A price guide and market-place
+- [ ] YoMarket Desktop      | A price guide and market-place
+- [ ] YoController          | An application that watches ads on the game for free coins)
