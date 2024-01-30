@@ -9,7 +9,7 @@ We work on projects that'd either help the Yoworld commnuity out or private proj
 
 ### List of current/previous projects
 
-Symbol Definition
+# Symbol Definition
 
 <p>x Project Completed<br />
 + Being worked on<br />
